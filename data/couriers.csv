@@ -1,0 +1,5 @@
+courier_id,courier_name,cost_per_order,pickup_time,estimated_delivery
+C-101,Delhivery,80,14:00,2-3 days
+C-102,BlueDart,120,15:00,1-2 days
+C-103,Xpressbees,70,13:30,3-4 days
+C-104,DTDC,90,16:00,2-3 days

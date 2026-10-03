@@ -1,0 +1,9 @@
+product_id,product_name,variant,category,reorder_level
+P-101,Wireless Sensor,Black,Smart Home,10
+P-102,Wireless Sensor,White,Smart Home,10
+P-103,Smart Switch,Black,Smart Home,10
+P-104,Smart Switch,White,Smart Home,10
+P-105,Motion Sensor,Black,Security,8
+P-106,Motion Sensor,White,Security,8
+P-107,Smart Hub,Black,Smart Home,5
+P-108,Smart Hub,White,Smart Home,5

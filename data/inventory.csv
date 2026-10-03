@@ -1,0 +1,9 @@
+product_id,product_name,variant,main_warehouse,secondary_warehouse,reserved_stock,last_stock_check
+P-101,Wireless Sensor,Black,5,20,5,13:00
+P-102,Wireless Sensor,White,25,10,4,13:00
+P-103,Smart Switch,Black,45,10,12,13:00
+P-104,Smart Switch,White,18,15,5,13:00
+P-105,Motion Sensor,Black,6,15,2,13:00
+P-106,Motion Sensor,White,30,8,4,13:00
+P-107,Smart Hub,Black,4,12,2,13:00
+P-108,Smart Hub,White,20,5,3,13:00

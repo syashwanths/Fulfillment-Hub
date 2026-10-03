@@ -1,0 +1,17 @@
+issue_id,order_id,issue_type,priority,assigned_to,status,created_time,notes
+ISS-001,ORD-1005,Stock Missing,High,Warehouse Team,Open,10:20,Main warehouse stock is insufficient
+ISS-002,ORD-1003,Wrong Variant,High,Packing Team,Resolved,10:35,Variant verified and corrected
+ISS-003,ORD-1007,Order Delay,High,Operations Team,Open,11:00,Priority order approaching deadline
+ISS-004,ORD-1006,Missed Pickup,High,Dispatch Team,Open,11:15,Courier did not collect package
+ISS-005,ORD-1009,Stock Transfer,Medium,Warehouse Team,In Progress,11:30,Transfer required from secondary warehouse
+ISS-006,ORD-1011,Address Verification,Medium,Office Team,Open,11:45,Address needs confirmation
+ISS-007,ORD-1016,Packing Error,High,Packing Team,Open,12:00,Quantity needs rechecking before dispatch
+ISS-008,ORD-1018,Courier Delay,High,Dispatch Team,Open,12:10,Pickup timing may affect priority shipment
+ISS-009,ORD-1022,Stock Mismatch,Medium,Warehouse Team,In Progress,12:20,Physical stock differs from spreadsheet
+ISS-010,ORD-1024,Wrong Variant,High,Packing Team,Open,12:30,Variant verification required
+ISS-011,ORD-1029,Stock Transfer,Medium,Warehouse Team,Resolved,12:40,Stock transferred from secondary warehouse
+ISS-012,ORD-1034,Address Verification,Medium,Office Team,Open,12:50,Customer address requires confirmation
+ISS-013,ORD-1037,Package Misplaced,High,Warehouse Team,Open,13:00,Packed package could not be located in staging area
+ISS-014,ORD-1038,Missed Pickup,High,Dispatch Team,Resolved,13:10,Courier pickup completed after escalation
+ISS-015,ORD-1042,Order Delay,High,Operations Team,Open,13:20,Priority order requires immediate attention
+ISS-016,ORD-1046,Label Error,Medium,Office Team,Resolved,13:30,Shipping label regenerated with correct order details
